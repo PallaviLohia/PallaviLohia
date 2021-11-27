@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PallaviLohia
-- 👀 I’m interested in Web App Decelopment
+- 👀 I’m interested in Web App Development
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ecommerce payment gateways
 - 📫 How to reach me ...via email 
